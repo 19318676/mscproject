@@ -5,4 +5,4 @@ This repository contains the main analysis conducted as part of my MSc Project, 
     - Frierson Replication and Earth-Like Isca Simulations
       (https://github.com/19318676/mscproject/blob/main/Plotting_Isca_Results/FriersonPlots.ipynb)
     - Machine Learning Isca Simulations
-      (https://github.com/19318676/mscproject/blob/main/Plotting_Isca_Results/Code_to_produce_results.ipynb) using functions.py module.
+      (https://github.com/19318676/mscproject/blob/main/Plotting_Isca_Results/Code_to_produce_results for ML.ipynb) using functions.py module.
